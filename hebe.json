@@ -1,0 +1,33 @@
+{
+   "project":"grav-skeleton-shop-site",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "breadcrumbs plugin":[{
+               "project":"grav-plugin-breadcrumbs"
+            }],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "lightslider plugin":[{
+               "project":"grav-plugin-lightslider"
+            }],
+            "snipcart plugin":[{
+               "project":"grav-plugin-snipcart"
+            }],
+            "antimatter theme":[{
+               "project":"grav-theme-antimatter"
+            }]
+         }
+      }
+   }
+}
