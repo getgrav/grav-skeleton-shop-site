@@ -7,9 +7,6 @@ pages:
   process:
     markdown: true
     twig: false
-  events:
-    page: false
-    twig: true
 
 cache:
   enabled: true
@@ -33,6 +30,7 @@ assets:
 
 debugger:
   enabled: true
+  strict: false
   max_depth: 10
   log:
     enabled: false
