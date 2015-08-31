@@ -2,27 +2,27 @@ git:
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
-        branch: develop
+        branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
+        branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: develop
+        branch: master
     lightslider:
         url: https://github.com/getgrav/grav-plugin-lightslider
         path: user/plugins/lightslider
-        branch: develop
+        branch: master
     snipcart:
         url: https://github.com/getgrav/grav-plugin-snipcart
         path: user/plugins/snipcart
-        branch: develop
+        branch: master
     antimatter:
         url: https://github.com/getgrav/grav-theme-antimatter
         path: user/themes/antimatter
-        branch: develop
+        branch: master
 links:
     breadcrumbs:
         src: grav-plugin-breadcrumbs
